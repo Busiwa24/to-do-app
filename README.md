@@ -117,7 +117,6 @@ Clone this repository to your desired folder:
 Install this project with:
 
 
-  cd to-do-app
   npm install
 
 ### Usage
