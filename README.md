@@ -1,2 +1,2 @@
-# to-do-app
-This is a to do application built with HTML, CSS and JavaScript
+# to-do
+This is a JavaScript, HTML and CSS project that allows a user to add a list of tasks, and to be able to mark them as complete and be able to delete them.
